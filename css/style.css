@@ -1,0 +1,44 @@
+.container{width: 1000px;
+			height: 1000px;
+			margin-left: auto;
+			margin-left: auto;
+			background-color: black;
+.list{width: 30%;
+		height:900PX;
+		background: red;
+		float: left;}
+
+}
+.main-content{width:70%; 
+			height:900px;
+			background-color: green;
+			float: left;}
+.one{width:100%; 
+	height:100px;
+	background-color:gray;
+	float:left;}
+.two{width:100%; 
+	height:100px;
+	background-color:salmon;
+	float:left;
+}
+.introduction{width:50%;
+			height:500px;
+			background-color:purple;
+			float:left;
+}
+.success-stories{width: 50%;
+				height:500px;
+				background-color:yellow;
+				float:left;
+}
+.about-us{width:100%; 
+		height:300px;
+		background-color:blue;
+		float:left;		
+}
+.contact{width:100%;
+	height:100px;
+	background-color:skyblue;
+	float:left;
+}
